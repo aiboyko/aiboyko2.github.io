@@ -28,7 +28,7 @@ AI Boyko, IV Oseledets, G Ferrer
 _5th International Conference on Matrix Methods in Mathematics, 2020_
 [[poster.pdf]]()
 
-**Evolutionary structural optimization algorithm based on fft-jvie solver for inverse design of wave devices**
+**Evolutionary structural optimization algorithm based on FFT-JVIE solver for inverse design of wave devices**
 
 IB Minin, EE Nuzhin, AI Boyko, MS Litsarev, IV Oseledets
 

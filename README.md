@@ -12,14 +12,14 @@ My scientific interests is in 2D\3D computer vision, 2D\3D\neural image synthesi
 AI Boyko, IV Oseledets, G Ferrer
 
 _Computational Mathematics and Mathematical Physics 61 (5), 836–846_
-[[Springer page]](https://link.springer.com/article/10.1134/S0965542521050043) [[pdf]]()  [[code]](https://github.com/aiboyko/ttcontrol)
+[[Springer page]](https://link.springer.com/article/10.1134/S0965542521050043) [[pdf]]()  [[code]](https://github.com/aiboyko/ttqi)
 
 **TT-TSDF: Memory-Efficient TSDF with Low-Rank Tensor Train Decomposition**
 
 AI Boyko, MP Matrosov, IV Oseledets, D Tsetserukou, G Ferrer
 
 _IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2020_
-[[pdf]](https://sites.skoltech.ru/app/data/uploads/sites/50/2021/01/tt-tsdf-iros2020.pdf) [[code]](https://github.com/aiboyko/ttsdf)
+[[pdf]](https://sites.skoltech.ru/app/data/uploads/sites/50/2021/01/tt-tsdf-iros2020.pdf) [[code]](https://github.com/aiboyko/tttsdf)
 
 **Globally optimal continuous control with a sparse reward using Tensor Train**
 
